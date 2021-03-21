@@ -51,3 +51,5 @@ playlist = sp.user_playlist_create(user=user_id, name=f"{date} Billboard 100", p
 # add items to the playlist
 sp.playlist_add_items(playlist_id=playlist["id"], items=song_uris)
 
+# For more of my projects, fun games and useful applicatons, 
+# please visit: https://github.com/thlouieshi?tab=repositories
